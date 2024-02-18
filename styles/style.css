@@ -13,7 +13,9 @@
     margin: 0 auto;
     /* border:48px 134px 30px 133px; */
     border-color: red;
-    background-color: aqua;
+    /* background-color: aqua; */
+    margin-top: 20px;
+    margin-bottom: 30px;
   }
 
   .raleway-large {
@@ -31,20 +33,21 @@
     font-weight: bold;
     }
     
-/* .btn-text{
-  font-family: Raleway;
-  font-size: 30px;
-  font-weight: 700;
-  line-height: 23px;
-  letter-spacing: 0px;
-  text-align: center;
-  } */
-  @media only screen and (max-width: 768px) {
-    .navbar li {
-      display: block;
-      margin-bottom: 10px;
-    }
-  }
+.banner{
+
+width: 1171px;
+height: 550px;
+left: 134px;
+right: 135px;
+top: 134px;
+bottom: 3127px;
+position: static;
+}
+.container{
+  border-radius: 32px;
+background: linear-gradient(180.00deg, rgba(3, 7, 18, 0.5),rgba(3, 7, 18, 0) 100%),url(1);
+}
+  
   
   
   
