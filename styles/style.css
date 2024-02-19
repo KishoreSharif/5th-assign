@@ -111,3 +111,32 @@ width: 700px;
 .trying{
   margin-bottom: 200px;
 }
+.sea{
+  display: flex;
+  justify-content: space-between;
+}
+.seal{
+  margin-top: 60px;
+font-size: x-large;
+font-weight: 600px;
+}
+.staring{
+  width:100px;
+  height:auto;
+  margin-bottom: 60px;
+}
+.join{
+width: 200px;
+height: 80px;
+border-radius: 12px;
+background: rgb(247, 248, 248);
+}
+.gplay{
+  width:200px;
+  height:auto;
+  margin-left: 320px;
+}
+.disclaimer{
+  display: flex;
+  justify-content: space-between;
+}
