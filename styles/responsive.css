@@ -4,3 +4,27 @@
       margin-bottom: 10px;
     }
   }
+
+  @media only screen and (max-width: 768px) {
+    .footer {
+      width: fit-content;
+      footer: fit-content;
+      gplay: fit-content;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .programming{
+      width: fit-content;
+      height: fit-content;
+      
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .scary{
+      width: fit-content;
+      height: fit-content;
+      
+    }
+  }
